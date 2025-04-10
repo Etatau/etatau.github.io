@@ -1,0 +1,7 @@
+body {
+    margin-top: 60px; /* for fixed navbar spacing */
+  }
+
+  .navbar .navbar-nav > li > a {
+    line-height: 30px;
+     }
